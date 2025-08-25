@@ -28,16 +28,16 @@ Si el usuario solo ingresa un nombre en la lista y hace clic en el boton "Sortea
 Campo de texto vacio:
 ![Mensajes](capturas/captura2.png)
 
-Minimo dos nombres:
+**Minimo dos nombres:**
 ![Mensajes1](capturas/captura3.png)
 
-Solo letras y espacios en el nombre:
+**Solo letras y espacios en el nombre:**
 ![Mensajes3](capturas/captura7.png)
 
-Nombre duplicado:
+**Nombre duplicado:**
 ![Mensajes4](capturas/captura8.png)
 
-Lista de amigos:
+**Lista de amigos:**
 ![Listas](capturas/captura4.png)
 
 **Sorteo de nombre:**
@@ -59,4 +59,4 @@ Abrir el archivo index.html
 
 ## Autor
 Desarrollo de HTML y CSS proporcionado por Alura.
-Desarrollo de JavaScrip por Jesus Rangel como parte de la actividad del curso Logica de porgramacion impartido por Alura Latam.
+Desarrollo de JavaScrip por **Jesus Rangel** como parte de la actividad del curso Logica de porgramacion impartido por Alura Latam.
