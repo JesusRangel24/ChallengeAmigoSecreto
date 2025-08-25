@@ -31,6 +31,12 @@ Campo de texto vacio:
 Minimo dos nombres:
 ![Mensajes1](capturas/captura3.png)
 
+Solo letras y espacios en el nombre:
+![Mensajes3](capturas/captura7.png)
+
+Nombre duplicado:
+![Mensajes4](capturas/captura8.png)
+
 Lista de amigos:
 ![Listas](capturas/captura4.png)
 
