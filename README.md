@@ -41,11 +41,9 @@ Lista de amigos:
 ![Listas](capturas/captura4.png)
 
 **Sorteo de nombre:**
-
 ![Seleccion1](capturas/captura5.png)
 
 **Habilitación de botón de reincio:**
-
 ![Boton1](capturas/captura6.png)
 
 ## Tecnologias utilizadas
