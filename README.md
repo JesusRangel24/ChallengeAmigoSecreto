@@ -25,24 +25,26 @@ Si el usuario solo ingresa un nombre en la lista y hace clic en el boton "Sortea
 ![Principal](capturas/captura1.png)
 
 **Mensajes de validación:**
-CAmpo de texto vacio:
+Campo de texto vacio:
 ![Mensajes](capturas/captura2.png)
 
 Minimo dos nombres:
 ![Mensajes1](capturas/captura3.png)
 
 Lista de amigos:
-![Lista](capturas/captura4.png)
+![Listas](capturas/captura4.png)
 
 **Sorteo de nombre:**
-![Seleccion](capturas/captura5.png)
+![Seleccion1](capturas/captura5.png)
 
 **Habilitación de botón de reincio:**
-![Boton](capturas/captura6.png)
+![Boton1](capturas/captura6.png)
 
 ## Tecnologias utilizadas
 **-HTML:** Estructura de la aplicación.
+
 **-CSS:** Estilo y diseño de la aplicacíon.
+
 **-JavaScript:** Desarrollo de logica del proyecto.
 
 ## Acceso al proyecto
